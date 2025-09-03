@@ -1,0 +1,11 @@
+'''
+    OPERADORES ARITMÉTICOS
+ORDEM DE PRIORIDADE PRIORIDADE 
+
+1° ()
+2° **
+3° * / // %
+4° + -
+'''
+
+
